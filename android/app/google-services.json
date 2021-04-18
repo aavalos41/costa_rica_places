@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590492106754",
+    "firebase_url": "https://cr100-27776.firebaseio.com",
+    "project_id": "cr100-27776",
+    "storage_bucket": "cr100-27776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590492106754:android:c8abaab122ad9645d0271b",
+        "android_client_info": {
+          "package_name": "com.alfredoavalos.costa_rica_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590492106754-unravmikeob44hfnd76veeuj9r3tttmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUeuGq8YHJxvWUE-qncRCUK4uqsi8kwyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590492106754-unravmikeob44hfnd76veeuj9r3tttmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
